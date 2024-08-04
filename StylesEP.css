@@ -5,15 +5,15 @@
 }
 
 .ep1-head {
-    font-size: 40;
+    font-size: 80;
 }
 
 .ep1-video, p {
     display: flex;
     align-items: center;
-    color: rgb(0, 0, 0);
-    font-size: 70;
-    margin-left: 80px;
+    color: rgb(132, 34, 34);
+    font-size: 100;
+    padding-left:700px;
     
 }
 
