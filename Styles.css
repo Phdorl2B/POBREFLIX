@@ -1,3 +1,9 @@
+.planeta {
+    size:40px;
+    color: red;
+    border-bottom:solid 2px white;
+}
+
 
 body {
     color: white;
@@ -64,3 +70,4 @@ img {
 .categoria h2 {
     color:rgba(226, 61, 61, 0.979)
 }
+
